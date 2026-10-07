@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ShugokiFable/FaceForge-BDO/actions/workflows/ci.yml"><img src="https://github.com/ShugokiFable/FaceForge-BDO/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/SenjuWoo/FaceForge-BDO/actions/workflows/ci.yml"><img src="https://github.com/SenjuWoo/FaceForge-BDO/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-e4a64f?labelColor=0d1319" alt="MIT License"></a>
-  <a href="https://github.com/ShugokiFable/FaceForge-BDO/releases/tag/v0.7.1"><img src="https://img.shields.io/badge/release-v0.7.1-69bdd1?labelColor=0d1319" alt="v0.7.1"></a>
+  <a href="https://github.com/SenjuWoo/FaceForge-BDO/releases/tag/v0.7.1"><img src="https://img.shields.io/badge/release-v0.7.1-69bdd1?labelColor=0d1319" alt="v0.7.1"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ShugokiFable/FaceForge-BDO/releases/latest">Download</a>
+  <a href="https://github.com/SenjuWoo/FaceForge-BDO/releases/latest">Download</a>
   ·
   <a href="#quick-start">Quick start</a>
   ·
@@ -35,7 +35,7 @@ Photo matching drives only **calibrated** sliders from local face measurements. 
 
 ## Quick start
 
-Latest release: **[v0.7.1](https://github.com/ShugokiFable/FaceForge-BDO/releases/tag/v0.7.1)**.
+Latest release: **[v0.7.1](https://github.com/SenjuWoo/FaceForge-BDO/releases/tag/v0.7.1)**.
 
 ```text
 FaceForge BDO 0.7.1 - STANDALONE.exe
@@ -119,7 +119,7 @@ Output: `artifacts\FaceForge BDO 0.7.1 - STANDALONE.exe`. The committed `web/js/
 
 ## Credits
 
-FaceForge BDO source is MIT. Bundled MediaPipe components use Apache License 2.0. See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) and [`licenses/`](licenses/). Measurement geometry is vendored from [FaceForge](https://github.com/ShugokiFable/FaceForge).
+FaceForge BDO source is MIT. Bundled MediaPipe components use Apache License 2.0. See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) and [`licenses/`](licenses/). Measurement geometry is vendored from [FaceForge](https://github.com/SenjuWoo/FaceForge).
 
 Black Desert and Pearl Abyss are trademarks of their owners. This project is unofficial.
 
