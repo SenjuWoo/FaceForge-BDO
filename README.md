@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/SenjuWoo/FaceForge-BDO/actions/workflows/ci.yml"><img src="https://github.com/SenjuWoo/FaceForge-BDO/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-e4a64f?labelColor=0d1319" alt="MIT License"></a>
-  <a href="https://github.com/SenjuWoo/FaceForge-BDO/releases/tag/v0.7.1"><img src="https://img.shields.io/badge/release-v0.7.1-69bdd1?labelColor=0d1319" alt="v0.7.1"></a>
+  <a href="https://github.com/SenjuWoo/FaceForge-BDO/releases/latest"><img src="https://img.shields.io/github/v/release/SenjuWoo/FaceForge-BDO?label=release&color=69bdd1" alt="latest release"></a>
 </p>
 
 <p align="center">
